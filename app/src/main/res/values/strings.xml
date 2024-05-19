@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PharmacyMobilApp</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="enter_password">Enter password</string>
+    <string name="password">Password</string>
+    <string name="enter_user_name">Enter user name</string>
+    <string name="user_name">User Name</string>
+    <string name="pharmacy">Pharmacy</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="add_pharmacy">Add Pharmacy</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="opening_hours">Opening Hours</string>
+    <string name="pharmacies">Pharmacies</string>
+    <string name="pharmacy_name">Pharmacy Name</string>
+    <string name="pharmacy_address">Pharmacy Address</string>
+    <string name="delete">delete</string>
+    <string name="update">update</string>
+    <string name="delete_update">Delete/Update</string>
+    <string name="delete_or_update_a_pharmacy">Delete or Update a Pharmacy</string>
+    <string name="enter_new_opening_hours">Enter new opening hours</string>
+</resources>
